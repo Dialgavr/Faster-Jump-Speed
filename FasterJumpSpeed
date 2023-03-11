@@ -1,0 +1,4 @@
+ if(isGrounded = false)
+        {
+            speed = 25f;
+        }
